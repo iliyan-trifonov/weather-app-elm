@@ -1,0 +1,12 @@
+{
+  "api": {
+    "keys": {
+      "worldweatheronline": "",
+      "openweathermap": ""
+    },
+    "pos": {
+      "lat": "",
+      "lon": ""
+    }
+  }
+}

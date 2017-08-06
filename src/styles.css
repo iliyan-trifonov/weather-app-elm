@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Digitaldream';
+  src: url('./Digitaldream.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.weather_data { font-family: Arial, Helvetica, sans; font-size: 32px; border-spacing: 0; }
+.weather_data th { text-align: left; padding-right: 30px; }
+.weather_data td { font-weight: bold; }
+.weather_data tr:nth-child(2n) th, .weather_data tr:nth-child(2n) td { background: gainsboro; }
+.weather_data .error_message { color: #FF0000; text-align: center; font-size: 18px; background: #FFF !important; padding-top: 20px; }
+.weather.bottom-links { font-family: Arial, Helvetica, sans; font-size: 18px; margin-top: 30px; }
+.weather_data .digital { font: 16pt 'Digitaldream'; font-weight: bold; color: red; }
